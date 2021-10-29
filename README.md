@@ -8,6 +8,8 @@ Component used-
    4) 4-dc motor with gear
    5) jumper wires
    6) Lithium ion battery
+   7) Led
+   
 
 
  circuit diagram-
